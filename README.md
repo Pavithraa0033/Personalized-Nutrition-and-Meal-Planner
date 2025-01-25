@@ -11,7 +11,7 @@
 - Member 3: goury prakash - MBCCET
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+(https://personalized-nutrition-and-meal-planner-v6dp.vercel.app/)
 
 ### Project Description
 The Personalized Nutrition and Meal Planner is a web application designed to create customized meal plans based on an individual's age, weight, height, health goals, and dietary preferences. The application provides a tailored meal plan along with BMI calculations to help users achieve their fitness objectives.
